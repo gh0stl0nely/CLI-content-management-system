@@ -3,8 +3,9 @@
 A command line Content Management System for business to manage their employee, roles and department
 
 ## Demonstration of basic functionality
-
+### Viewing Employee
 ![View](./demo/view.gif)
+### Adding and Deleting Employee
 ![Add and Deleting](./demo/add_delete.gif)
 
 ## All Functionality
